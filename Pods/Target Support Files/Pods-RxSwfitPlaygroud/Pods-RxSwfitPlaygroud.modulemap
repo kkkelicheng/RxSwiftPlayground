@@ -1,0 +1,6 @@
+framework module Pods_RxSwfitPlaygroud {
+  umbrella header "Pods-RxSwfitPlaygroud-umbrella.h"
+
+  export *
+  module * { export * }
+}
